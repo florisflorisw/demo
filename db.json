@@ -1,11 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "pizzas": [
-    { "name": "salami", "ingredients": [ "kaas", "salami", "tomaten" ]},
+    { "name": "salami", "ingredients": [ "kaas", "salami", "tomaten"]},
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
