@@ -1,7 +1,7 @@
 {
   "pizzas": [
-    { "name": "salami", "ingredients": [ "kaas", "salami", "tomaten"]},
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "name": "pizza salami", "ingredients": [ "kaas", "salami", "tomaten"]},
+    { "name": "pizza shoarma", "ingredients": [ "kaas", "shoarma", "shoarmasaus"]}
   ],
   "profile": {
     "name": "typicode"
