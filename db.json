@@ -1,11 +1,11 @@
 {
   "pizzas": [
-    { "name": "pizza salami", "ingredients": [ "tomatensaus", "kaas", "salami", "tomaten"]},
-    { "name": "pizza shoarma", "ingredients": [ "tomatensaus", "kaas", "tomatensaus", "shoarma", "shoarmasaus"]},
-    { "name": "pizza margarita", "ingredients": [ "tomatensaus", "kaas", "tomatensaus", "mozzarella", "tomatensaus"]},
-    { "name": "pizza hawaii", "ingredients": ["tomatensaus", "kaas", "ham", "annanas"]},
-    { "name": "pizza funghi", "ingredients": ["tomatensaus", "kaas", "mozzerella", "champignon"]},
-    { "name": "pizza vegan bbq", "ingredients": ["tomatensaus", "kaas", "tomaat", "bbq saus"]}
+    { "name": "pizza salami", "ingredients": ["pizza salami", "tomatensaus", "kaas", "salami", "tomaten"]},
+    { "name": "pizza shoarma", "ingredients": ["pizza shoarma",  "tomatensaus", "kaas", "shoarma", "shoarmasaus"]},
+    { "name": "pizza margarita", "ingredients": ["pizza margarita", "tomatensaus", "kaas", "mozzarella"]},
+    { "name": "pizza hawaii", "ingredients": ["pizza hawaii", "tomatensaus", "kaas", "ham", "annanas"]},
+    { "name": "pizza funghi", "ingredients": ["pizza funghi", "tomatensaus", "kaas", "mozzerella", "champignon"]},
+    { "name": "pizza vegan bbq", "ingredients": ["pizza vegan bbq", "tomatensaus", "kaas", "tomaat", "bbq saus"]}
 
   ],
   "profile": {
