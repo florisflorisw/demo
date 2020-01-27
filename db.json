@@ -1,6 +1,6 @@
 {
   "pizzas": [
-    { "name": "pizza salami", "ingredients": ["pizza salami", "tomatensaus", "kaas", "salami", "tomaten"]},
+    { "name": "pizza salami", "ingredients": ["pizza salami", "tomatensaus", "kaas", "salami", "tomaat"]},
     { "name": "pizza shoarma", "ingredients": ["pizza shoarma",  "tomatensaus", "kaas", "shoarma", "shoarmasaus"]},
     { "name": "pizza margarita", "ingredients": ["pizza margarita", "tomatensaus", "kaas", "mozzarella"]},
     { "name": "pizza hawaii", "ingredients": ["pizza hawaii", "tomatensaus", "kaas", "ham", "annanas"]},
