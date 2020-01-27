@@ -1,7 +1,12 @@
 {
   "pizzas": [
-    { "name": "pizza salami", "ingredients": [ "kaas", "salami", "tomaten"]},
-    { "name": "pizza shoarma", "ingredients": [ "kaas", "shoarma", "shoarmasaus"]}
+    { "name": "pizza salami", "ingredients": [ "tomatensaus", "kaas", "salami", "tomaten"]},
+    { "name": "pizza shoarma", "ingredients": [ "tomatensaus", "kaas", "tomatensaus", "shoarma", "shoarmasaus"]},
+    { "name": "pizza margarita", "ingredients": [ "tomatensaus", "kaas", "tomatensaus", "mozzarella", "tomatensaus"]},
+    { "name": "pizza hawaii", "ingredients": ["tomatensaus", "kaas", "ham", "annanas"]},
+    { "name": "pizza funghi", "ingredients": ["tomatensaus", "kaas", "mozzerella", "champignon"]},
+    { "name": "pizza vegan bbq", "ingredients": ["tomatensaus", "kaas", "tomaat", "bbq saus"]}
+
   ],
   "profile": {
     "name": "typicode"
