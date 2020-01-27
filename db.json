@@ -3,7 +3,7 @@
     { "name": "pizza salami", "ingredients": ["pizza salami", "tomatensaus", "kaas", "salami", "tomaat"]},
     { "name": "pizza shoarma", "ingredients": ["pizza shoarma",  "tomatensaus", "kaas", "shoarma", "shoarmasaus"]},
     { "name": "pizza margarita", "ingredients": ["pizza margarita", "tomatensaus", "kaas", "mozzarella"]},
-    { "name": "pizza hawaii", "ingredients": ["pizza hawaii", "tomatensaus", "kaas", "ham", "annanas"]},
+    { "name": "pizza hawaii", "ingredients": ["pizza hawaii", "tomatensaus", "kaas", "ham", "ananas"]},
     { "name": "pizza funghi", "ingredients": ["pizza funghi", "tomatensaus", "kaas", "mozzarella", "champignon"]},
     { "name": "pizza vegan bbq", "ingredients": ["pizza vegan bbq", "tomatensaus", "kaas", "tomaat", "bbq saus"]}
 
